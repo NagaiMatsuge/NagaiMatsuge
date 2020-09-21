@@ -1,5 +1,4 @@
 # Full Stack Web Developer from Tashkent
---- 
 #### Mainly the focus is on [Laravel](https://laravel.com/) with [VueJs](https://vuejs.org/)
 ## My Social Media
  - [Instagram](https://www.instagram.com/komiljonov_b/)📷
